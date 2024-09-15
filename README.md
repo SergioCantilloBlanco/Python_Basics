@@ -5,7 +5,7 @@ It is divided into two main sections:
 2. OOP practice
 
 ## Python Basics
-This section covers fundamental Python programming concepts and contains three subfolders:
+This section covers fundamental Python programming concepts and contains two subfolders:
 ### Basic Python Projects
 This folder contains simple Python projects designed to help you understand basic programming concepts such as:
 + Variables and data types
